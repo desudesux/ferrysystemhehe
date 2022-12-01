@@ -141,9 +141,7 @@ include 'constants.php';
 
                         
 
-                        <li><a href="pro/signin.php" class="page-scroll">
-                                <h3>Passenger Portal</h3>
-                            </a></li>
+                       
 
                         <li><a href="pro/adminsignin.php" class="page-scroll">
                                 <h3>Admin</h3>
